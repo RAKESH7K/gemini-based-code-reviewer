@@ -1,5 +1,5 @@
 # Gemini-based-Code-Reviewer
-Ai powered code reviewer and documentation generator using gemini api
+AI-Powered code reviewer and documentation generator using Gemini API
 
 
 ## Project Overview
